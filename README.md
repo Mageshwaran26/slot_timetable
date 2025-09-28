@@ -125,7 +125,7 @@ Execute the program using runserver command.
 
   <div class="container">
     <div class="table-container">
-      <h2>Weekly Time Table - PAUL SHERVIN P(212224240111)</h2>
+      <h2>Weekly Time Table - Mageshwaran T.A(212224230146)</h2>
       <table>
         <tr>
           <th>Day/Time</th><th>8-10</th><th>10-12</th><th>12-1</th><th>1-3</th><th>3-5</th>
@@ -155,7 +155,7 @@ Execute the program using runserver command.
     </div>
 
     <div class="footer">
-      Designed with ❤️ by PAUL SHERVIN P | Saveetha Engineering College
+      Designed with ❤️Mageshwaran T.A| Saveetha Engineering College
     </div>
   </div>
 
@@ -165,7 +165,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image.png)
+<img width="1879" height="1027" alt="image" src="https://github.com/user-attachments/assets/cb30880b-fc1a-4e99-82b8-fe522618fce3" />
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
